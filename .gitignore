@@ -1,5 +1,8 @@
 HELP.md
 target/
+### Super Secret Stuff Teeheeheee ###
+/src/main/resources/application.properties
+
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -32,6 +35,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### Super Secret Stuff Teeheeheee ###
-src/main/resources/application.properties
+
+
 
