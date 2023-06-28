@@ -33,4 +33,5 @@ build/
 .vscode/
 
 ### Super Secret Stuff Teeheehee ###
-*/application.properties
+src/main/resources/application.properties
+
